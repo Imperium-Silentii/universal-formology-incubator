@@ -71,7 +71,7 @@
 
 ---
 
-[Ваши действия](https://github.com/Imperium-Silentii/universal-formology-incubator/tree/main/welcome)
+# 🧭 [ВАШИ ДЕЙСТВИЯ](https://github.com/Imperium-Silentii/universal-formology-incubator/tree/main/welcome)
 
 ---
 
