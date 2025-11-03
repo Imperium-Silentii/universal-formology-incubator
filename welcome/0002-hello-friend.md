@@ -67,5 +67,5 @@ tags: [GitHub, Со-творчество, Формология, Участие]
 
 *Добро пожаловать в будущее совместной работы.*
 
-[🔙 Вернуться в Ваши действия](https://github.com/Imperium-Silentii/universal-formology-incubator/tree/main/welcome)
+[🔙 Вернуться в Ваши действия](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
 
