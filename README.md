@@ -11,7 +11,7 @@
 >
 > ---
 
-## 🧭 [ВАШИ ДЕЙСТВИЯ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions)
+## 🧭 [ВАШИ ДЕЙСТВИЯ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
 
 ---
 
@@ -86,7 +86,7 @@
 
 ---
 
-## 🧭 [ВАШИ ДЕЙСТВИЯ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions)
+## 🧭 [ВАШИ ДЕЙСТВИЯ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
 
 ---
 
