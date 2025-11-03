@@ -75,5 +75,5 @@ tags: [СценическоеИмя, Гражданство, Правила, И�
 >
 > **— Инкубатор Конструктивных Идей**
 >
-> [🔙 Вернуться в Ваши действия](https://github.com/Imperium-Silentii/universal-formology-incubator/tree/main/welcome)
+> [🔙 Вернуться в Ваши действия](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
 
