@@ -82,32 +82,14 @@
 
 ---
 
-🔗 Включение в онбординг
-
-`yaml
-mission: AntiPandora
-onboarding:
-  - step: Ознакомление с Протоколом сценического гражданства
-    link: https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/protocol-sn.md
-    badge: серебряная кнопка
-    mask_required: true
-  - step: Активация маски
-    form: https://forms.visrealitatis.org/activate
-  - step: Публикация сцены
-    template: scene.yaml
-    deadline: 2026-03-01
-`
-
----
-
-🧭 Ссылка на протокол
-
-📜 protocol-sn.md — GitHub
+[🪙 Ознакомиться с Протоколом сценического гражданства](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/protocol-sn.md)
 
 ---
 
 ### 🚀 Что дальше?
 
-Изучили все документы раздела "Ваши Действия" и готовы сделать шаг? Следующая остановка — **[Официальная почта Институции](mailto:admin@imarch.sbs)** для подачи прошения о гражданстве.
+Изучили все документы раздела "Ваши Действия" и готовы сделать шаг? 
+
+Следующая остановка — **[Официальная почта Институции](mailto:admin@imarch.sbs)** для подачи прошения о гражданстве.
 
 Ваш путь от зрителя к гражданину начинается с осознанного выбора. **Мы ждём именно вас.**
