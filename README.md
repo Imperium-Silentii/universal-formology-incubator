@@ -93,7 +93,102 @@ Nobis autem consilia omnino alia sunt.
 
 ---
 
-# "Миссия Антипандоры"
+# `Mission Antipandora`
+
+The **Universal Formology Incubator** is the initial stage for participants of the institutional game `Mission Antipandora`.
+
+The repository contains basic information, templates, and rhythms for joining the **Project**.
+
+**Clone, study, contribute!** Each act becomes part of the formological movement.
+
+---
+
+## 🪶 **Incubator of Constructive Ideas: Universal Formology**
+
+> *"We do not save outcasts, we acknowledge non-standard bearers of Form."*
+
+---
+
+## 🧭 **[YOUR ACTIONS](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)**
+
+---
+
+## 🎭 **Game Mission**
+
+Creating an alternative space for **non-standard bearers of ideas**:
+*   Creative individuals
+*   Philosophers
+*   Missionaries
+
+A space where they can realize their impulses through **titular scenes**. Using poetic, classificatory, and institutional templates to participate in a constructive game of recognition.
+
+## 🧭 **Goal**
+
+*   Provide an **internal foundation** for idea formation.
+*   Formalize actions within **constructive patterns**, not spontaneous informality.
+*   Create an **alternative to opposition** through institutional recognition, not protest.
+*   Develop **institutionalization standards** based on Universal Formology.
+*   Implement the **School of Nine Arts** as a basic system of humanitarian training.
+
+## 🗺️ **Target Audience**
+
+### 1. Non-Standard Form Bearers
+Creators, philosophers, artists, activists who have rejected the standard framework. Seek recognition outside the vertical of power and outside the chaos of informality.
+
+### 2. Initiators of Institutions
+Those creating new missions, communities, forms. Seek templates, titles, connections, public acts.
+
+### 3. Curators of Humanitarian Programs
+Educators, methodologies, cultural organizers. Implement the School of Nine Arts as the basis for upbringing and navigation.
+
+### 4. Analysts and Classifiers
+System architects, researchers, philosophers. Work with typologies, structures, forms.
+
+## 🧩 **Forms of Participation**
+
+*   Participant's Title Card
+*   Public Mission
+*   Stage Name
+*   Institutional Recognition Passport
+*   Memorandum of Connection
+*   Access to the Forum and Action Scenes
+
+## 🪶 **Principles**
+
+*   **Recognition without Submission**
+*   **Form without Delusions of Grandeur**
+*   **Play without Condemnation**
+*   **Discipline without Violence**
+*   **Connection without Legal Overload**
+
+## 🛠️ **Tools**
+
+*   **Universal Formology** — a discipline of classificatory analysis.
+*   **School of Nine Arts** — a system of humanitarian training.
+*   **Poetic and Scenographic Templates** — forms for formalizing participation.
+*   **Institutional Rituals** — scenes of recognition, publication, navigation.
+
+## 🚀 **Getting Started**
+
+*He who owns the information owns the world.*
+But not in a geopolitical sense. First and foremost, it's about owning one's own, "internal" world.
+
+Such ownership liberates from the power of destructive emotions that drive you into rigid frameworks of automatic reactions, depriving you of freedom of choice.
+
+**Therefore, start simple:** familiarize yourself with the information necessary for gaining conscious control over your psycho-emotional state. Figure out how to use the self-organization tool we offer you.
+
+Study the content of the instructions and act. But not thoughtlessly.
+As we know, *fools are used to carry water*.
+
+But our tasks are completely different.
+
+---
+
+## 🧭 **[YOUR ACTIONS](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)**
+
+---
+
+# `Миссия Антипандоры`
 
 Инкубатор Universal Formology это стартовая сцена для участников институциональной игры "Миссия Антипандоры". 
 
