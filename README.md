@@ -8,9 +8,7 @@ Repositorium fundamentales notitias, exemplaria, et rhythmos ad collaborationem 
 
 ---
 
-<p align="right">
-[العربية](#مهمة-مضادة-لصندوق-باندورا) · [中文](#反潘多拉计划) · [English](#mission-antipandora) · [Français](#mission-antipandore) · [Русский](#миссия-антипандоры) · [Español](#misión-antipandora)
-</p>
+[العربية](#العربية) | [中文](#中文) | [English](#english) | [Français](#français) | [Русский](#русский) | [Español](#español)
 
 ---
 
