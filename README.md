@@ -8,8 +8,7 @@ Repositorium fundamentales notitias, exemplaria, et rhythmos ad collaborationem 
 
 ---
 
-**UN Languages / 联合国语言 / Langues de l'ONU / Idiomas de la ONU / لغات الأمم المتحدة**
-* [Русский](#русский) • [English](#english) • [中文](#中文) • [Français](#français) • [Español](#español) • [العربية](#العربية)* 
+[العربية](#مهمة-مضادة-لصندوق-باندورا) · [中文](#反潘多拉计划) · [English](#mission-antipandora) · [Français](#mission-antipandore) · [Русский](#миссия-антипандоры) · [Español](#misión-antipandora)
 
 ---
 
