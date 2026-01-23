@@ -10,7 +10,7 @@
 
 ---
 
-## [➡️ ПОДАТЬ ЗАЯВКУ](https://github.com/Imperium-Silentii/universal-formology-incubator/issues)
+## [➡️ ПОДАТЬ ЗАЯВКУ](https://github.com/Imperium-Silentii/universal-formology-incubator/issues/1)
 
 ---
 
@@ -100,7 +100,7 @@
 
 ---
 
-## [➡️ ПОДАТЬ ЗАЯВКУ](https://github.com/Imperium-Silentii/universal-formology-incubator/issues)
+## [➡️ ПОДАТЬ ЗАЯВКУ](https://github.com/Imperium-Silentii/universal-formology-incubator/issues/1)
 
 ---
 
