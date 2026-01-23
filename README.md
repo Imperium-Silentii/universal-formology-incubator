@@ -8,6 +8,11 @@ Repositorium fundamentales notitias, exemplaria, et rhythmos ad collaborationem 
 
 ---
 
+**UN Languages / 联合国语言 / Langues de l'ONU / Idiomas de la ONU / لغات الأمم المتحدة**
+* [Русский](#русский) • [English](#english) • [中文](#中文) • [Français](#français) • [Español](#español) • [العربية](#العربية)* 
+
+---
+
 ## 🪶 **Incubator Idearum Constructivarum: Universalis Formologia**
 
 > *"Non exsules servamus, sed Formae portatores non-standard agnoscimus."*
