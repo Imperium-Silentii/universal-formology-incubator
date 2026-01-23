@@ -6,9 +6,9 @@
 
 Ознакомьтесь с их содержанием и следуйте инструкциям. Всё просто!
 
-## 📝 Подать заявку на гражданство
+---
 
-### [➡️ Перейти к заявкам](https://github.com/Imperium-Silentii/universal-formology-incubator/issues)
+## [➡️ ПОДАТЬ ЗАЯВКУ](https://github.com/Imperium-Silentii/universal-formology-incubator/issues)
 
 ---
 
@@ -96,8 +96,10 @@
 
 Следующая станция: подача заявки на гражданство
 
-## 📝 Подать заявку на гражданство
+---
 
-### [➡️ Перейти к заявкам](https://github.com/Imperium-Silentii/universal-formology-incubator/issues)
+## [➡️ ПОДАТЬ ЗАЯВКУ](https://github.com/Imperium-Silentii/universal-formology-incubator/issues)
+
+---
 
 Ваш путь от зрителя к гражданину начинается с осознанного выбора. **Мы ждём именно вас.**
