@@ -82,7 +82,7 @@
 
 ---
 
-[🪙 Ознакомиться с Протоколом сценического гражданства](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/protocol-sn.md)
+## [🪙 Ознакомиться с Протоколом сценического гражданства](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/protocol-sn.md)
 
 ---
 
