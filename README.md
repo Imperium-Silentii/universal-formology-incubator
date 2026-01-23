@@ -8,7 +8,8 @@ Repositorium fundamentales notitias, exemplaria, et rhythmos ad collaborationem 
 
 ---
 
-[العربية](#العربية) | [中文](#中文) | [English](#english) | [Français](#français) | [Русский](#русский) | [Español](#español)
+| [العربية](#العربية) | [中文](#中文) | [English](#english) | [Français](#français) | [Русский](#русский) | [Español](#español) |
+|---------------------|--------------|-------------------|---------------------|-------------------|---------------------|
 
 ---
 
