@@ -1,15 +1,13 @@
+| [العربية](#العربية) | [中文](#中文) | [English](#english) | [Français](#français) | [Русский](#русский) | [Español](#español) |
+|---------------------|--------------|-------------------|---------------------|-------------------|---------------------|
+
 # `Missio Antipandorae`
 
 **Incubator Universalis Formologiae** est scaena initialis participium ludi institutionalis `Missio Antipandorae`.
 
 Repositorium fundamentales notitias, exemplaria, et rhythmos ad collaborationem in **Proiecto** continet.
 
-**Exscribe, disce, adde!** Unusquisque actus pars motus formologici fit.
-
----
-
-| [العربية](#العربية) | [中文](#中文) | [English](#english) | [Français](#français) | [Русский](#русский) | [Español](#español) |
-|---------------------|--------------|-------------------|---------------------|-------------------|---------------------|
+**Exscribe, disce, adde!** Unusquisque actus pars motus formologici fit. 
 
 ---
 
