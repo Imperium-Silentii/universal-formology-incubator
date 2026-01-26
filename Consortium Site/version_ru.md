@@ -4,6 +4,7 @@
 
 Цифровое институциональное представительство в экосистеме Platan+
 
+[Проект Лендинга](https://github.com/Imperium-Silentii/kucha/discussions/43#discussioncomment-15608294)
 
 ---
 
