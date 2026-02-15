@@ -190,13 +190,6 @@ But our tasks are completely different.
 ## 🧭 **[YOUR ACTIONS](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)**
 
 ---
- 
-# 📌 IMARCH Githronical | Chronicle OS 
----
-
-Линь, вот твой текст в причёсанном виде: единая стилистика, исправлены опечатки, улучшена структура для быстрого чтения, сохранён твой голос.
-
----
 
 # 📌 IMARCH Githronical | Chronicle OS
 
