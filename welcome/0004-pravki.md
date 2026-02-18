@@ -88,6 +88,9 @@ tags: [Клонирование, Участие, Git, Вклад]
 
 Это функционал суверенной личности. Используйте его для созидания.
 
+
+[🔙 Вернуться в Ваши действия](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
+
 ---
 
 © 2026 • [IMARCH LTD UK](https://imarch.sbs/ru/imarch-ltd/)
