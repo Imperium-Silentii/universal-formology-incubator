@@ -34,6 +34,8 @@ IMARCH Githronical не разделяет участников на фикси�
 
 Не откладывайте, начните прямо сейчас.
 
+💬 [ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
+
 ---
 
 ## Архитектура институции 🌱
@@ -369,6 +371,8 @@ IMARCH Githronical | Chronicle OS это попытка переосмыслит
 ---
 
 ## 🧭 [ВАШИ ДЕЙСТВИЯ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
+
+💬 [ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
 
 ---
 
