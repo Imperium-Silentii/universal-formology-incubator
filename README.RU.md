@@ -26,9 +26,7 @@ IMARCH Githronical не разделяет участников на фикси�
 
 ---
 
-## 🧭 Ваш первый шаг
-
-## ✅ [ВАШИ ДЕЙСТВИЯ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
+## 🧭 [ВАШИ ДЕЙСТВИЯ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
 
 Переходите по ссылке, там вас ждут конкретные инструкции.  
 
@@ -372,9 +370,13 @@ IMARCH Githronical | Chronicle OS это попытка переосмыслит
 
 ---
 
-## ✅ [ВАШИ ДЕЙСТВИЯ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
+## 🧭 [ВАШИ ДЕЙСТВИЯ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
 
-❓Остались вопросы? Обратитесь в нашу службу поддержки
+Переходите по ссылке, там вас ждут конкретные инструкции.  
+
+Не откладывайте, начните прямо сейчас.
+
+❓Есть вопросы? Обратитесь в нашу службу поддержки
 
 ### 💬 [ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
 
