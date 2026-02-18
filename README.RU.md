@@ -34,7 +34,7 @@ IMARCH Githronical не разделяет участников на фикси�
 
 ❓Есть вопросы? Обратитесь в нашу службу поддержки
 
-### 💬 [ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
+#### 💬 [ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
 
 ---
 
@@ -378,7 +378,7 @@ IMARCH Githronical | Chronicle OS это попытка переосмыслит
 
 ❓Есть вопросы? Обратитесь в нашу службу поддержки
 
-### 💬 [ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
+#### 💬 [ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
 
 ---
 
