@@ -32,11 +32,11 @@ IMARCH Githronical не разделяет участников на фикси�
 
 Не откладывайте, начните прямо сейчас.
 
-🔗 [ТОКЕНИЗАЦИЯ активности](https://github.com/Imperium-Silentii/kucha/discussions/53)
+> 🔗 [ТОКЕНИЗАЦИЯ активности](https://github.com/Imperium-Silentii/kucha/discussions/53)
 
 ❓Есть вопросы? Обратитесь в нашу службу поддержки
 
-#### 💬 [ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
+> 💬 [ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
 
 ---
 
