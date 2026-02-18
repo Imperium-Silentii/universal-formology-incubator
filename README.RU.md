@@ -261,7 +261,7 @@ IMARCH Githronical | Chronicle OS это попытка переосмыслит
 
 ---
 
-[ПРОЙТИ ОНБОРДИНГ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0005-onbording.md)
+## [ПРОЙТИ ОНБОРДИНГ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0005-onbording.md)
 
 ---
 
