@@ -6,18 +6,6 @@
 
 Это **инструмент, который меняет реальность**.
 
----
-
-## 🧭 Ваш первый шаг
-
-### [ВАШИ ДЕЙСТВИЯ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
-
-Переходите по ссылке, там вас ждут конкретные инструкции.  
-
-Не откладывайте, начните прямо сейчас.
-
----
-
 # [IMARCH Githronical | Chronicle OS](https://imarch.sbs/ru/)
 
 ![Имархия](https://imarch.sbs/images/logo.png)
@@ -35,6 +23,18 @@ IMARCH Githronical | Chronicle OS это инфраструктура новог
 ---
 
 IMARCH Githronical не разделяет участников на фиксированные категории. Люди входят в проект на разных глубинах и со временем могут менять форму своего участия.
+
+---
+
+## 🧭 Ваш первый шаг
+
+### [ВАШИ ДЕЙСТВИЯ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
+
+Переходите по ссылке, там вас ждут конкретные инструкции.  
+
+Не откладывайте, начните прямо сейчас.
+
+---
 
 ## Архитектура институции 🌱
 Каждый участник это орган, каждая миссия акт, каждый протокол титул взаимодействия.  
