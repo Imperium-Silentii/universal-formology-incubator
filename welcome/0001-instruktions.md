@@ -132,3 +132,7 @@
 #### 💬 [ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
 
 ---
+
+© 2026 • [IMARCH LTD UK](https://imarch.sbs/ru/imarch-ltd/)
+
+---
