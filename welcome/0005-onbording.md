@@ -174,7 +174,7 @@ Issues и комментарии позволяют фиксировать ре�
 Таким образом, онбординг является не входным барьером, а механизмом согласования, позволяющим системе работать без хаоса и взаимного непонимания.
 
 
-[🔙 Вернуться в Ваши действия](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
+> [🔙 Вернуться в Ваши действия](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
 ---
 
 [IMARCH LTD](https://imarch.sbs/ru/) © 2026
