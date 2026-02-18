@@ -8,6 +8,16 @@
 
 ---
 
+## 🧭 Ваш первый шаг
+
+### [ВАШИ ДЕЙСТВИЯ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
+
+Переходите по ссылке, там вас ждут конкретные инструкции.  
+
+Не откладывайте, начните прямо сейчас.
+
+---
+
 # [IMARCH Githronical | Chronicle OS](https://imarch.sbs/ru/)
 
 ![Имархия](https://imarch.sbs/images/logo.png)
@@ -191,16 +201,6 @@ Chronicle OS строится как многослойная структура
 IMARCH Githronical | Chronicle OS это попытка переосмыслить цифровое пространство не как поток информации, а как среду формирования субъектов.
 
 Она превращает отдельные действия в последовательную историю, а историю в основу доверия и сотрудничества.
-
----
-
-## 🧭 Ваш первый шаг
-
-### [ВАШИ ДЕЙСТВИЯ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
-
-Переходите по ссылке, там вас ждут конкретные инструкции.  
-
-Не откладывайте, начните прямо сейчас.
 
 ---
 
