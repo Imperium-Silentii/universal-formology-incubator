@@ -67,6 +67,12 @@ tags: [GitHub, Со-творчество, Формология, Участие]
 
 *Добро пожаловать в будущее совместной работы.*
 
+❓Есть вопросы? Обратитесь в нашу службу поддержки
+
+#### 💬 [ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
+
+---
+
 > [🔙 Вернуться в Ваши действия](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
 
 ---
