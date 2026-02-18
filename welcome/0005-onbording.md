@@ -174,6 +174,12 @@ Issues и комментарии позволяют фиксировать ре�
 Таким образом, онбординг является не входным барьером, а механизмом согласования, позволяющим системе работать без хаоса и взаимного непонимания.
 
 
+❓Есть вопросы? Обратитесь в нашу службу поддержки
+
+#### 💬 [ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
+
+---
+
 > [🔙 Вернуться в Ваши действия](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
 ---
 
