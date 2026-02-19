@@ -12,6 +12,10 @@
 
 ## [➡️ ПОДАТЬ ЗАЯВКУ](https://github.com/Imperium-Silentii/universal-formology-incubator/issues/1#issue-3848450842)
 
+❓Есть вопросы? Обратитесь в нашу службу поддержки
+
+#### 💬 [ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
+
 ---
 
 ## 🧭 Навигация для Новичка
