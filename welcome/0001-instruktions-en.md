@@ -12,7 +12,7 @@ Familiarise yourself with their contents and follow the instructions. It's simpl
 
 To directly participate in the Game, submit your application for scenic citizenship:
 
-## [➡️ SUBMIT APPLICATION](https://github.com/Imperium-Silentii/universal-formology-incubator/issues/1#issue-3848450842)
+## [➡️ SUBMIT APPLICATION](https://github.com/Imperium-Silentii/universal-formology-incubator/issues/2)
 
 > 🔗 [ACTIVITY TOKENIZATION](https://github.com/Imperium-Silentii/kucha/discussions/53)
 
@@ -119,7 +119,7 @@ Because **CCS is an adult tool** that, when used competently, can significantly 
 
 To directly participate in the Game, submit your application for scenic citizenship:
 
-## [➡️ SUBMIT APPLICATION](https://github.com/Imperium-Silentii/universal-formology-incubator/issues/1#issue-3848450842)
+## [➡️ SUBMIT APPLICATION](https://github.com/Imperium-Silentii/universal-formology-incubator/issues/2)
 
 Also familiarise yourself with the principles of activity tokenization for those who wish to participate in the Game as a donor without obligations and for those ready to accept candidate status for scenic citizenship.
 
