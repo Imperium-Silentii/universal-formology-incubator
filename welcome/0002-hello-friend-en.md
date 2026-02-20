@@ -73,7 +73,7 @@ You came here not to learn programming. You came here to create. And we are putt
 
 ---
 
-> [🔙 Return to Your Actions](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
+> [🔙 Return to Your Actions](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions--en.md)
 
 ---
 
