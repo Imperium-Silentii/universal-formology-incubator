@@ -10,13 +10,13 @@
 
 ---
 
-Для непосредственного участия в Игре полайте заявку на сеценическое гражданство:
+Для непосредственного участия в Игре подайте заявку на сеценическое гражданство:
 
 ## [➡️ ПОДАТЬ ЗАЯВКУ](https://github.com/Imperium-Silentii/universal-formology-incubator/issues/1#issue-3848450842)
 
 ❓Есть вопросы? Обратитесь в нашу службу поддержки
 
-#### 💬 [ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
+*💬 [ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
 
 ---
 
@@ -94,7 +94,7 @@
 
 ---
 
-### [🪙 Ознакомиться с Протоколом сценического гражданства](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/protocol-sn.md)
+*[🪙 Ознакомиться с Протоколом сценического гражданства](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/protocol-sn.md)
 
 ---
 
@@ -110,26 +110,11 @@
 
 **Чтобы понять, как система работает и как применить её к вашей ситуации, пройдите онбординг:**
 
-1. **Изучите первую статью**  
-   → [«Нет коробочных решений для легализации миссий»](#)
-
-2. **Ответьте на вопросы по содержанию**  
-   → форма внутри статьи
-
-3. **Пройдите квизы по комплексному вводному материалу**
-
-4. **Получите статус участника, сертификат или токен**
-
-5. **С каждым новым статусом вы переходите на следующий уровень**  
-   → новый репозиторий, новое комьюнити, новые возможности
+*[Пройти онбординг](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0005-onbording.md)
 
 ---
 
-## [ПРОЙТИ ОНБОРДИНГ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0005-onbording.md)
-
----
-
-Для непосредственного участия в Игре полайте заявку на сеценическое гражданство:
+Для непосредственного участия в Игре подайте заявку на сеценическое гражданство:
 
 ## [➡️ ПОДАТЬ ЗАЯВКУ](https://github.com/Imperium-Silentii/universal-formology-incubator/issues/1#issue-3848450842)
 
