@@ -97,6 +97,7 @@
 ---
 
 *[🪙 Ознакомиться с Протоколом сценического гражданства](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/protocol-sn.md)*
+
 ---
 
 ### 🚀 Что дальше?
@@ -111,7 +112,7 @@
 
 **Чтобы понять, как система работает и как применить её к вашей ситуации, пройдите онбординг:**
 
-*[Пройти онбординг](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0005-onbording.md)*
+## [➡️ Пройти онбординг](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0005-onbording.md)*
 
 ---
 
