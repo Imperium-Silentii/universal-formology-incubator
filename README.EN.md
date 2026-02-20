@@ -26,7 +26,7 @@ IMARCH Githronical does not divide participants into fixed categories. People en
 
 ---
 
-## 🧭 [YOUR ACTIONS](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
+## 🧭 [YOUR ACTIONS](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions-en.md)
 
 Follow the link, specific instructions await you there.
 
@@ -368,7 +368,7 @@ We have completely different tasks. Let’s go!
 
 ---
 
-## 🧭 [YOUR ACTIONS](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
+## 🧭 [YOUR ACTIONS](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions-en.md)
 
 Follow the link, specific instructions await you there.
 
