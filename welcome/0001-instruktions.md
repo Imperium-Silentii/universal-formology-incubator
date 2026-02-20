@@ -128,8 +128,8 @@
 ## [ПРОЙТИ ОНБОРДИНГ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0005-onbording.md)
 
 ---
+
 Для непосредственного участия в Игре полайте заявку на сеценическое гражданство:
----
 
 ## [➡️ ПОДАТЬ ЗАЯВКУ](https://github.com/Imperium-Silentii/universal-formology-incubator/issues/1#issue-3848450842)
 
