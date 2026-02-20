@@ -142,7 +142,7 @@
 
 Это механизм вашего прямого воздействия на реальность Формологии.
 
-# 📜 [ИНСТРУКЦИЯ РАБОЧЕГО ЦИКЛА](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/000-4-revisions.md)
+# 📜 [ИНСТРУКЦИЯ РАБОЧЕГО ЦИКЛА](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0004-revisions.md)
 
 ---
 
