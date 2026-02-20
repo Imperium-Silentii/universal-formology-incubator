@@ -85,7 +85,7 @@ This is the functionality of a sovereign personality. Use it for creation.
 
 ---
 
-> [🔙 Return to Your Actions](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
+> [🔙 Return to Your Actions](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions-en.md)
 
 ---
 
