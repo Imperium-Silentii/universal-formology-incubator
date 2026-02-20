@@ -7,5 +7,5 @@
 | العربية  | قواعد اللعبة |
 | Español  | Reglas del Juego |
 | 中文      | 游戏规则 |
-| Русский  | [**Правила Игры**](https://github.com/Imperium-Silentii/visrealitatis-donors/blob/main/README.RU.md#visrealitatis-donors) |
+| Русский  | [**Правила Игры**](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/README.RU.md) |
 | Français | Règles du Jeu |
