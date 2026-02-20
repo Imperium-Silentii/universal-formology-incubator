@@ -26,7 +26,7 @@ To directly participate in the Game, submit your application for scenic citizens
 
 ### 📖 For those hearing the word “GitHub” for the first time
 
-*[Open guide](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0002-hello-friend.md)*
+*[Open guide](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0002-hello-friend-en.md)*
 
 **Why read this?**  
 This article is your pass to the logic of our space. If you look at the GitHub interface and feel like you're in an alien universe, **this text is your universal translator**.
@@ -44,7 +44,7 @@ This article is your pass to the logic of our space. If you look at the GitHub i
 
 ### 🏛️ Manifesto on Scene Citizenship and Title Name
 
-*[Accept the challenge](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0003-scene-name.md)*
+*[Accept the challenge](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0003-scene-name-en.md)*
 
 **Why read this?**  
 This manifesto is more than rules. It is an **invitation to acquire digital sovereignty**. If you are ready to move from observation to full‑fledged co‑creation, start here.
@@ -93,7 +93,7 @@ Every mask, every commit, every subdomain is an act of recognition.
 - No collection of personal data
 - Only actions, publications, scenes
 
-*[Read the Scene Citizenship Protocol](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/protocol-sn.md)*
+*[Read the Scene Citizenship Protocol](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/protocol-sn-en.md)*
 
 ---
 
@@ -109,7 +109,7 @@ Because **CCS is an adult tool** that, when used competently, can significantly 
 
 **To understand how the system works and how to apply it to your situation, complete the onboarding:**
 
-## [➡️ COMPLETE ONBOARDING](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0005-onbording.md)
+## [➡️ COMPLETE ONBOARDING](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0005-onbording-en.md)
 
 ---
 
@@ -140,7 +140,7 @@ Your goal is not just to propose a worthwhile idea, but to introduce a formal ch
 
 This is the mechanism of your direct influence on the reality of Formology.
 
-# 📜 [WORK CYCLE INSTRUCTIONS](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0004-revisions.md)
+# 📜 [WORK CYCLE INSTRUCTIONS](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0004-revisions-en.md)
 
 ---
 
