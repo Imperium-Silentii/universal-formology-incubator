@@ -79,7 +79,7 @@ IMARCH Githronical не разделяет участников на фикси�
 
 ## Приглашение 🚀
 Присоединение через титульную сцену, где каждый шаг это обет перед хроникой.  
-># [Присоединиться](https://imarch.sbs/ru/vis-realitatis-center/)
+>### [ПРИСОЕДИНИТЬСЯ](https://imarch.sbs/ru/vis-realitatis-center/)
 
 ---
 
