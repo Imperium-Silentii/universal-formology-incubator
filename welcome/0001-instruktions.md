@@ -14,9 +14,11 @@
 
 ## [➡️ ПОДАТЬ ЗАЯВКУ](https://github.com/Imperium-Silentii/universal-formology-incubator/issues/1#issue-3848450842)
 
+> 🔗 [ТОКЕНИЗАЦИЯ активности](https://github.com/Imperium-Silentii/kucha/discussions/53)
+
 ❓Есть вопросы? Обратитесь в нашу службу поддержки
 
-*[ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
+> 💬 [ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
 
 ---
 
@@ -114,17 +116,19 @@
 
 ---
 
+>Ваш путь от зрителя к гражданину начинается с осознанного выбора. **Мы ждём именно вас.**
+
+---
+
 Для непосредственного участия в Игре подайте заявку на сеценическое гражданство:
 
 ## [➡️ ПОДАТЬ ЗАЯВКУ](https://github.com/Imperium-Silentii/universal-formology-incubator/issues/1#issue-3848450842)
 
----
-
-Ваш путь от зрителя к гражданину начинается с осознанного выбора. **Мы ждём именно вас.**
+> 🔗 [ТОКЕНИЗАЦИЯ активности](https://github.com/Imperium-Silentii/kucha/discussions/53)
 
 ❓Есть вопросы? Обратитесь в нашу службу поддержки
 
-*[ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
+> 💬 [ПОДДЕРЖКА в Signal](https://signal.me/#eu/PbAVxdbX1Wja23fxRdV7bkiUTDlDJinAEFfZMFNAe2r8D9fuHABBoLydBN62ZK5N)
 
 ---
 
