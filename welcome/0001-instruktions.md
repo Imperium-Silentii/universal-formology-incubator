@@ -94,7 +94,6 @@
 - Без сбора персональных данных  
 - Только действия, публикации, сцены
 
----
 
 *[🪙 Ознакомиться с Протоколом сценического гражданства](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/protocol-sn.md)*
 
@@ -108,11 +107,11 @@
 
 Потому что **CCS это взрослый инструмент**, который при грамотном применении способен значительно повлиять на ваше состояние и жизненную ситуацию.  
 
-Но без понимания механик он бесполезен.
+❗ Но без понимания механик он бесполезен.
 
 **Чтобы понять, как система работает и как применить её к вашей ситуации, пройдите онбординг:**
 
-## [➡️ Пройти онбординг](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0005-onbording.md)*
+## [➡️ ПРОЙТИ ОНБОРДИНГ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0005-onbording.md)*
 
 ---
 
