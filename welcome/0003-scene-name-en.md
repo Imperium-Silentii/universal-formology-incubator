@@ -78,7 +78,7 @@ You get not just a “login”. You get a **digital sovereign personality** in o
 >
 > **— Incubator of Constructive Ideas**
 >
-> [🔙 Return to Your Actions](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions.md)
+> [🔙 Return to Your Actions](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0001-instruktions-en.md)
 
 ---
 
