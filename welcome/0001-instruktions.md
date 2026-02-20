@@ -111,7 +111,7 @@
 
 **Чтобы понять, как система работает и как применить её к вашей ситуации, пройдите онбординг:**
 
-## [➡️ ПРОЙТИ ОНБОРДИНГ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0005-onbording.md)*
+## [➡️ ПРОЙТИ ОНБОРДИНГ](https://github.com/Imperium-Silentii/universal-formology-incubator/blob/main/welcome/0005-onbording.md)
 
 ---
 
@@ -122,6 +122,8 @@
 Для непосредственного участия в Игре подайте заявку на сеценическое гражданство:
 
 ## [➡️ ПОДАТЬ ЗАЯВКУ](https://github.com/Imperium-Silentii/universal-formology-incubator/issues/1#issue-3848450842)
+
+Также ознайомтесь с принципами токенизации активности для тех, кто пожелал принимать участие в Игре в качестве донора без обязательств и для тех, кто готов принять кандидатский статус в сценическое гражданство.
 
 > 🔗 [ТОКЕНИЗАЦИЯ активности](https://github.com/Imperium-Silentii/kucha/discussions/53)
 
