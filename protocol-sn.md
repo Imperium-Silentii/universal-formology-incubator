@@ -1,8 +1,3 @@
-| [العربية](#بروتوكول-التحقق-من-المواطنة-المسرحية) | [中文](#场景公民身份验证协议) | [English](#scene-citizenship-verification-protocol) | [Français](#protocole-de-vérification-de-la-citoyenneté-scénique) | [Русский](#протокол-верификации-сценического-гражданства) | [Español](#protocolo-de-verificación-de-la-ciudadanía-escénica) |
-|---------------------------------------------------|-------------------------------|----------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------|
-
----
-
 # 🎭 I. Scene Citizenship Verification Protocol
 
 (Description of the IMARCH Scene Citizenship Protocol)
